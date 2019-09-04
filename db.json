@@ -2,7 +2,7 @@
   "posts": [
     { "userId": 1, "id": 1, "title": "Kevins big adventure", "body":"I went to walmart today" },
     { "userId": 2, "id": 2, "title": "The poo that took a pee", "body":"Douglas had to poop, his butt was all stinky because he had to poop so badly. There was a gross woman named Rebecca who was sunbathing all naked and she was fat. Douglas walked up to her and said, \"I need to poop\". \"Okay, Rebecca replied, \"I like poop\". Douglas squatted down over the fat sunbathing lady and went poop. The poop sat there on Rebecca's boobs, looking like a weiner." },
-    { "userId": 3, "id": 3, "title": "Post 3", "body":"Hi3" }
+    { "userId": 3, "id": 3, "title": "The flying sausage", "body":" AS U BEING MY FRIEND I WILL WARN ABOUT MY HUMAN BEING IN THE TELESCOPE. BUT WHAT I REALLY NEED TO TALK TO U ABOUT IS THE FLYING SAUSAGE INCIDENT I DON’T THINK I TALKED TO U ABOUT THIS BUT U REALLY SHOULD KNOW THAT I AM SECRETLY A FLYING SAUSAGE NOT ONLY AM I A FLYING SAUSAGE BUT I AM THE FLYING SAUSAGE THAT TOOK THE WALKING CHEESEBURGERS PICKLES. I NEED UR HELP TO ESCAPE THE POLICE MEN BECAUSE THE ONLY REASON I STOLE HIS PICKLES WAS BECAUSE I WAS GOING THROUGH THIS THING WHERE ALL I WANTED TO DO WAS EAT PICKLES AND MY MOM WOULDN’T BUY ANY. I HAD NO MONEY SO I DIDN’T KNOW WHAT ELSE TO DO. I WALKED OVER TO THE CHEESEURGER AND TOOK HIS PICKLES. APPARENTLY THATS AGAINST THE LAW BUT I STILL DID IT. I ALREADY ATE THE PICKLES SO I CAN’T RETURN THEM. I ASKED BOBBYJO TO PUT ME IN A BOX AND SEND ME TO NORTH CAROLINA SO I AM NOW IN NEW ENGLAND I NEED U TO GO ON A SECRET MISSION AND GO BUY ME A PRIVATE JET U SEE I CAN NOT FLY ANYMORE SO I NEED SOMEONE TO SEND ME A PRIVATE JET NOT A AIRPLANE I ALREADY HAVE 2,345 AIRPLANES PLEASE DO NOT SEND ME AN AIRPLANE.PLEASE AND THANK YOU I HOPE U CAN COMPLETE MY MISSION." }
   ],
   "comments": [
     { "name": "Kyle Lefebvre", "comment": "Nice post kevin!", "id": 1 },
@@ -10,6 +10,11 @@
 	{ "name": "Chris Hofer", "comment": "Thats crap feira", "id": 1},
 	{ "name": "Eric Cartman", "comment": "That just blew my mind", "id": 2},
 	{ "name": "Kyle", "comment": "Gross dude", "id": 2},
-	{ "name": "Some guy", "comment": "Awesome. Love this", "id": 2}
+	{ "name": "Some guy", "comment": "Awesome. Love this", "id": 2},
+	{ "name": "Kevin", "comment": "Now i want some sausage", "id": 3},
+	{ "name": "Burger", "comment": "Disappointed.. wasn\'t about burgers", "id": 3},
+	{ "name": "Some guy", "comment": "Awesome. Love this", "id": 3},
+	{ "name": "Some guy", "comment": "Awesome. Love this", "id": 3},
+	{ "name": "Some guy", "comment": "Awesome. Love this", "id": 3}
   ]
 }
