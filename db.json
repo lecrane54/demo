@@ -1,11 +1,15 @@
 {
   "posts": [
     { "userId": 1, "id": 1, "title": "Kevins big adventure", "body":"I went to walmart today" },
-    { "userId": 2, "id": 2, "title": "Post 2", "body":"Hi2" },
+    { "userId": 2, "id": 2, "title": "The poo that took a pee", "body":"Douglas had to poop, his butt was all stinky because he had to poop so badly. There was a gross woman named Rebecca who was sunbathing all naked and she was fat. Douglas walked up to her and said, \"I need to poop\". \"Okay, Rebecca replied, \"I like poop\". Douglas squatted down over the fat sunbathing lady and went poop. The poop sat there on Rebecca's boobs, looking like a weiner." },
     { "userId": 3, "id": 3, "title": "Post 3", "body":"Hi3" }
   ],
   "comments": [
     { "name": "Kyle Lefebvre", "comment": "Nice post kevin!", "id": 1 },
-    { "name": "Cody Crockfurd", "comment": "Just incredible", "id": 1}
+    { "name": "Cody Crockfurd", "comment": "Just incredible", "id": 1},
+	{ "name": "Chris Hofer", "comment": "Thats crap feira", "id": 1},
+	{ "name": "Eric Cartman", "comment": "That just blew my mind", "id": 2},
+	{ "name": "Kyle", "comment": "Gross dude", "id": 2},
+	{ "name": "Some guy", "comment": "Awesome. Love this", "id": 2}
   ]
 }
