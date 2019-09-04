@@ -1,11 +1,11 @@
 {
   "posts": [
-    { "userId": 1, "id": 1, "title": "Post 1", "body":"Hi" },
+    { "userId": 1, "id": 1, "title": "Kevins big adventure", "body":"I went to walmart today" },
     { "userId": 2, "id": 2, "title": "Post 2", "body":"Hi2" },
     { "userId": 3, "id": 3, "title": "Post 3", "body":"Hi3" }
   ],
   "comments": [
-    { "userId": 1, "comment": "some comment", "postId": 1 },
-    { "userId": 2, "comment": "some comment", "postId": 2 }
+    { "name": "Kyle Lefebvre", "comment": "Nice post kevin!", "postId": 1 },
+    { "userId": "Cody Crockfurd", "comment": "Just incredible", "postId": 1}
   ]
 }
