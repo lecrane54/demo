@@ -1,6 +1,6 @@
 {
  "users":[
-	 
+	 {"id":12341,"name":"Kevin Feira","password":"kevin123"}
  ],
   "posts": [
     { "userId": 1, "id": 1, "title": "Kevins big adventure", "body":"I went to walmart today" },
